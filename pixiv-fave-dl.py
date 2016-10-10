@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from pixivpy3 import *
 import json
 import os
