@@ -14,5 +14,5 @@ Modify config.json with your username, password, and desired save directory.
 Run
 ---
 
-    python pixiv-fave-dl.py
+    ./pixiv-fave-dl.py
 
